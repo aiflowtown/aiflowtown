@@ -90,5 +90,3 @@ The platform focuses on clean structure, SEO scalability, and mobile-first desig
 ```bash
 git clone https://github.com/yourusername/aiflowtown.git
 cd aiflowtown
-
-Built with ❤️ by the aiFlowTown team — making AI tools more human.
