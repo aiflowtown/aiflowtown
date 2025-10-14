@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://aiflowtown.com">
-    <img src="https://aiflowtown.com/wp-content/uploads/2025/10/aiflowtown-logo-v2.webp" alt="aiFlowTown Logo" width="120">
+    <img src="https://aiflowtown.com/wp-content/uploads/2025/10/project_aiflowtown_banner-1.webp" alt="aiFlowTown Banner">
   </a>
 </p>
 
@@ -10,10 +10,9 @@
 
 <p align="center">
   <a href="https://aiflowtown.com">
-    <img src="https://aiflowtown.com/wp-content/uploads/2025/10/project_aiflowtown_banner-1.webp" alt="aiFlowTown Banner">
+    <img src="https://aiflowtown.com/wp-content/uploads/2025/10/aiflowtown-logo-v2.webp" alt="aiFlowTown Logo" width="250">
   </a>
 </p>
-
 <p align="center">
   <a href="https://aiflowtown.com">🌐 Website</a> •
   <a href="#-overview">Overview</a> •
