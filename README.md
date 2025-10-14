@@ -36,7 +36,7 @@
 **aiFlowTown** is a lightweight, fast, and human-centered WordPress hub for **AI prompts, creative workflows, and productivity systems**.  
 The platform focuses on clean structure, SEO scalability, and mobile-first design — ideal for AdSense and global content growth.
 
-👉 Live site: [https://aiflowtown.com](https://aiflowtown.com)
+👉 Live site: [https://aiflowtown.com](aiFlowTown.com)
 
 ---
 
@@ -46,22 +46,22 @@ The platform focuses on clean structure, SEO scalability, and mobile-first desig
 
 | 🧭 Core Pages | 🔗 URLs |
 |:--------------|:--------------------------------|
-| **About** | [https://aiflowtown.com/about/](https://aiflowtown.com/about/) |
-| **Team Members** | [https://aiflowtown.com/team-members/](https://aiflowtown.com/team-members/) |
-| **Blog** | [https://aiflowtown.com/blog/](https://aiflowtown.com/blog/) |
-| **Contact** | [https://aiflowtown.com/contact/](https://aiflowtown.com/contact/) |
-| **FAQ** | [https://aiflowtown.com/faq/](https://aiflowtown.com/faq/) |
+| **About** | [https://aiflowtown.com/about/](aiflowtown.com/about/) |
+| **Team Members** | [https://aiflowtown.com/team-members/](aiflowtown.com/team-members/) |
+| **Blog** | [https://aiflowtown.com/blog/](aiflowtown.com/blog/) |
+| **Contact** | [https://aiflowtown.com/contact/](aiflowtown.com/contact/) |
+| **FAQ** | [https://aiflowtown.com/faq/](aiflowtown.com/faq/) |
 
 | ⚖️ Legal & Policy | 🔗 URLs |
 |:-------------------|:--------------------------------|
-| **Privacy Policy** | [https://aiflowtown.com/privacy-policy/](https://aiflowtown.com/privacy-policy/) |
-| **Terms of Service** | [https://aiflowtown.com/terms-of-service/](https://aiflowtown.com/terms-of-service/) |
-| **Disclaimer** | [https://aiflowtown.com/disclaimer/](https://aiflowtown.com/disclaimer/) |
-| **Disclosure** | [https://aiflowtown.com/disclosure/](https://aiflowtown.com/disclosure/) |
-| **Cookie Policy** | [https://aiflowtown.com/cookie-policy/](https://aiflowtown.com/cookie-policy/) |
-| **Cookie Preferences** | [https://aiflowtown.com/cookie-preferences/](https://aiflowtown.com/cookie-preferences/) |
-| **Review Methodology** | [https://aiflowtown.com/review-methodology/](https://aiflowtown.com/review-methodology/) |
-| **404 Page** | [https://aiflowtown.com/page-404/](https://aiflowtown.com/page-404/) |
+| **Privacy Policy** | [https://aiflowtown.com/privacy-policy/](aiflowtown.com/privacy-policy/) |
+| **Terms of Service** | [https://aiflowtown.com/terms-of-service/](aiflowtown.com/terms-of-service/) |
+| **Disclaimer** | [https://aiflowtown.com/disclaimer/](aiflowtown.com/disclaimer/) |
+| **Disclosure** | [https://aiflowtown.com/disclosure/](aiflowtown.com/disclosure/) |
+| **Cookie Policy** | [https://aiflowtown.com/cookie-policy/](aiflowtown.com/cookie-policy/) |
+| **Cookie Preferences** | [https://aiflowtown.com/cookie-preferences/](aiflowtown.com/cookie-preferences/) |
+| **Review Methodology** | [https://aiflowtown.com/review-methodology/](aiflowtown.com/review-methodology/) |
+| **404 Page** | [https://aiflowtown.com/page-404/](aiflowtown.com/page-404/) |
 
 </p>
 
