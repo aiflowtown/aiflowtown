@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://aiflowtown.com">
-    <img src="https://aiflowtown.com/wp-content/uploads/2025/10/aiflowtown_logo_v4.webp" alt="aiFlowTown Logo" width="250">
+    <img src="https://aiflowtown.com/wp-content/uploads/2025/10/aiflowtown_logo_v4.webp" alt="aiFlowTown Logo" width="300">
   </a>
 </p>
 <p align="center">
