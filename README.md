@@ -17,7 +17,7 @@
 <p align="center">
   <a href="https://aiflowtown.com">🌐 Website</a> •
   <a href="#-overview">Overview</a> •
-  <a href="#-pages--status">Pages</a> •
+  <a href="#-pages">Pages</a> •
   <a href="#-tech-stack">Tech</a> •
   <a href="#-design--ux">Design</a> •
   <a href="#-development">Development</a> •
@@ -34,35 +34,37 @@
 ---
 
 ## ✨ Overview
-**aiFlowTown** is a lightweight WordPress-based hub for **AI prompts, workflow inspiration, and productivity systems**.  
-The project emphasizes simplicity, speed, and SEO scalability for long-form educational content.
+**aiFlowTown** is a lightweight, fast, and human-centered WordPress hub for **AI prompts, creative workflows, and productivity systems**.  
+The platform focuses on clean structure, SEO scalability, and mobile-first design — ideal for AdSense and global content growth.
 
-- Responsive layout for desktop, tablet, and mobile  
-- GeneratePress (Free) theme base  
-- Built for content, not clutter  
-- SEO-friendly and AdSense-ready  
-
-👉 Live: [https://aiflowtown.com](https://aiflowtown.com)
+👉 Live site: [https://aiflowtown.com](https://aiflowtown.com)
 
 ---
 
-## 📚 Pages & Status
+## 📚 Pages
 
-| Page | Progress |
-|:--|:--|
-| [About](https://aiflowtown.com/about/) | 60% |
-| [Team Members](https://aiflowtown.com/team-members/) | 60% |
-| [Privacy Policy](https://aiflowtown.com/privacy-policy/) | 60% |
-| [Contact](https://aiflowtown.com/contact/) | 60% |
-| [Terms of Service](https://aiflowtown.com/terms-of-service/) | 60% |
-| [Blog](https://aiflowtown.com/blog/) | 60% |
-| [Disclosure](https://aiflowtown.com/disclosure/) | 60% |
-| [Disclaimer](https://aiflowtown.com/disclaimer/) | 60% |
-| [Cookie Policy](https://aiflowtown.com/cookie-policy/) | 60% |
-| [Cookie Preferences](https://aiflowtown.com/cookie-preferences/) | 60% |
-| [Review Methodology](https://aiflowtown.com/review-methodology/) | 60% |
-| [FAQ](https://aiflowtown.com/faq/) | 60% |
-| [404 Page](https://aiflowtown.com/page-404/) | 60% |
+<p align="center">
+
+| 🧭 Core Pages | 🔗 URLs |
+|:--------------|:--------------------------------|
+| **About** | [https://aiflowtown.com/about/](https://aiflowtown.com/about/) |
+| **Team Members** | [https://aiflowtown.com/team-members/](https://aiflowtown.com/team-members/) |
+| **Blog** | [https://aiflowtown.com/blog/](https://aiflowtown.com/blog/) |
+| **Contact** | [https://aiflowtown.com/contact/](https://aiflowtown.com/contact/) |
+| **FAQ** | [https://aiflowtown.com/faq/](https://aiflowtown.com/faq/) |
+
+| ⚖️ Legal & Policy | 🔗 URLs |
+|:-------------------|:--------------------------------|
+| **Privacy Policy** | [https://aiflowtown.com/privacy-policy/](https://aiflowtown.com/privacy-policy/) |
+| **Terms of Service** | [https://aiflowtown.com/terms-of-service/](https://aiflowtown.com/terms-of-service/) |
+| **Disclaimer** | [https://aiflowtown.com/disclaimer/](https://aiflowtown.com/disclaimer/) |
+| **Disclosure** | [https://aiflowtown.com/disclosure/](https://aiflowtown.com/disclosure/) |
+| **Cookie Policy** | [https://aiflowtown.com/cookie-policy/](https://aiflowtown.com/cookie-policy/) |
+| **Cookie Preferences** | [https://aiflowtown.com/cookie-preferences/](https://aiflowtown.com/cookie-preferences/) |
+| **Review Methodology** | [https://aiflowtown.com/review-methodology/](https://aiflowtown.com/review-methodology/) |
+| **404 Page** | [https://aiflowtown.com/page-404/](https://aiflowtown.com/page-404/) |
+
+</p>
 
 ---
 
@@ -71,15 +73,15 @@ The project emphasizes simplicity, speed, and SEO scalability for long-form educ
 - **Languages**: HTML5, CSS3, JavaScript  
 - **Hosting**: Vultr VPS • CyberPanel • LiteSpeed  
 - **Performance**: Cloudflare CDN, WebP, lazy load  
-- **SEO**: JSON-LD Schema, long-tail keywords  
+- **SEO**: JSON-LD Schema, long-tail content strategy  
 
 ---
 
 ## 🎨 Design & UX
-- Clean, light background tone (not pure white)  
-- Uses GeneratePress layout + modular CSS tokens  
-- Consistent spacing and typography for readability  
-- Fully responsive across desktop, tablet, and mobile  
+- Clean, minimalist layout inspired by MyPerfectResume  
+- Subtle off-white background tone for better readability  
+- Consistent grid spacing and clear information hierarchy  
+- Fully responsive: desktop → tablet → mobile  
 
 ---
 
@@ -88,3 +90,5 @@ The project emphasizes simplicity, speed, and SEO scalability for long-form educ
 ```bash
 git clone https://github.com/yourusername/aiflowtown.git
 cd aiflowtown
+
+Built with ❤️ by the aiFlowTown team — making AI tools more human.
