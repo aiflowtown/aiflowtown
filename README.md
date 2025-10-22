@@ -65,27 +65,4 @@ The platform focuses on clean structure, SEO scalability, and mobile-first desig
 
 </p>
 
----
 
-## 🧱 Tech Stack
-- **CMS**: WordPress + GeneratePress (Free)  
-- **Languages**: HTML5, CSS3, JavaScript  
-- **Hosting**: Vultr VPS • CyberPanel • LiteSpeed  
-- **Performance**: Cloudflare CDN, WebP, lazy load  
-- **SEO**: JSON-LD Schema, long-tail content strategy  
-
----
-
-## 🎨 Design & UX
-- Clean, minimalist layout inspired by MyPerfectResume  
-- Subtle off-white background tone for better readability  
-- Consistent grid spacing and clear information hierarchy  
-- Fully responsive: desktop → tablet → mobile  
-
----
-
-## 🛠 Development
-
-```bash
-git clone https://github.com/yourusername/aiflowtown.git
-cd aiflowtown
