@@ -15,12 +15,8 @@
 </p>
 <p align="center">
   <a href="https://aiflowtown.com">🌐 Website</a> •
-  <a href="#-overview">Overview</a> •
-  <a href="#-pages">Pages</a> •
-  <a href="#-tech-stack">Tech</a> •
-  <a href="#-design--ux">Design</a> •
-  <a href="#-development">Development</a> •
-  <a href="#-contributing">Contributing</a>
+  <a href="https://aiflowtown.com/about/">Overview</a> •
+  <a href="https://aiflowtown.com/blog-page">Pages</a> •
 </p>
 
 <p align="center">
