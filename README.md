@@ -31,8 +31,7 @@
 
 ## ✨ Overview
 **aiFlowTown** is a lightweight, fast, and human-centered WordPress hub for **AI prompts, creative workflows, and productivity systems**.  
-The platform focuses on clean structure, SEO scalability, and mobile-first design — ideal for AdSense and global content growth.
-
+We shares AI tools, prompts, and productivity insights to help people work smarter and live better.
 👉 Live site: [aiFlowTown.com](https://aiflowtown.com)
 
 ---
