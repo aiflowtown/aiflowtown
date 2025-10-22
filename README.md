@@ -6,17 +6,18 @@
   </a>
 </p>
 
-<h1 align="center">aiFlowTown — Smart Prompts & Productivity Hub</h1>
+<h1 align="center">aiFlowTown — Smart Prompts &amp; Productivity Hub</h1>
 
 <p align="center">
   <a href="https://aiflowtown.com">
     <img src="https://aiflowtown.com/wp-content/uploads/2025/10/aiflowtown_logo_v4.webp" alt="aiFlowTown Logo" width="300">
   </a>
 </p>
+
 <p align="center">
   <a href="https://aiflowtown.com">🌐 Website</a> •
   <a href="https://aiflowtown.com/about/">Overview</a> •
-  <a href="https://aiflowtown.com/blog-page">Pages</a> •
+  <a href="https://aiflowtown.com/blog/">Pages</a>
 </p>
 
 <p align="center">
@@ -61,4 +62,21 @@ The platform focuses on clean structure, SEO scalability, and mobile-first desig
 
 </p>
 
+---
 
+<h2 align="center">🌐 Social Links</h2>
+
+<p align="center">
+  <a href="https://x.com/aiflowtown">X (Twitter)</a> •
+  <a href="https://www.linkedin.com/company/aiflowtown/">LinkedIn</a> •
+  <a href="https://www.facebook.com/aiflowtown">Facebook</a> •
+  <a href="https://gravatar.com/aiflowtown">Gravatar</a> •
+  <a href="https://pinterest.com/aiFlowTown">Pinterest</a> •
+  <a href="https://www.tumblr.com/aiflowtown">Tumblr</a> •
+  <a href="https://github.com/aiflowtown">GitHub</a> •
+  <a href="https://gitlab.com/aiflowtown">GitLab</a> •
+  <a href="https://medium.com/@aiflowtown">Medium</a> •
+  <a href="https://bsky.app/profile/aiflowtown.bsky.social">Bluesky</a> •
+  <a href="https://aiflowtown.wordpress.com/">WordPress</a> •
+  <a href="https://goodreads.com/aiflowtown">Goodreads</a>
+</p>
